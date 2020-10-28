@@ -1,4 +1,4 @@
-![Chinese Dragon](chinese_dragon.png)
+![got dragons](got_dragons.png)
 <!--
 **Viserion77/Viserion77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
