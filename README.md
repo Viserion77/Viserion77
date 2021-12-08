@@ -13,5 +13,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Viserion77&theme=onedark&show_icons=true&locale=en" width="380" alt="Viserion77" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viserion77&theme=onedark" width="380" alt="Viserion77" />
 </p>
-
-![Snake animation](https://github.com/Viserion77/Viserion77/blob/output/github-contribution-grid-snake.svg)
