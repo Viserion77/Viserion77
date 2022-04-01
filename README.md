@@ -1,5 +1,3 @@
-:computer: Software Engineer at Adapcon Software & Inovação
-<br>
 :house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
 
 <br>
