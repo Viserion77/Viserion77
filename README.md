@@ -2,11 +2,6 @@
 <br>
 :house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
 
-### [My Calendar -> 📅](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2PhqsUDAlVNpaArCUnyfdms7JPY2trwYFmCaUw3cPPA9prwEvwYlmKD7onbvJAjCxbmrskh43X)
-
-#### How to reach me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Viserion77)](https://github.com/Viserion77)
-[![Email Badge](https://img.shields.io/badge/-Gmail-EEE?style=flat-square&logo=Gmail&link=jeferson.a.oficial@gmail.com)](mailto:jeferson.a.oficial@gmail.com)
 <br>
 
 <p float="left">
