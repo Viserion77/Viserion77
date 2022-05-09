@@ -1,4 +1,4 @@
-:house_with_garden: Brazilian, Based in Jaraguá do Sul, SC
+:house_with_garden: Earthling, Based in Brazil
 
 <br>
 
