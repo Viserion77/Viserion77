@@ -14,6 +14,7 @@
   [![Medium](https://img.shields.io/badge/-Medium-grey?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@viserion77)](https://medium.com/@viserion77)
   [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/19594258/viserion77)](https://pt.stackoverflow.com/users/19594258/viserion77)
   [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=DevTo&logoColor=white&link=https://dev.to/viserion77)](https://dev.to/viserion77)
+  [![Spotify](https://img.shields.io/badge/-Spotify-brightgreen?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jeferson_a?si=90a31aa615014bbb)](https://open.spotify.com/user/jeferson_a?si=90a31aa615014bbb)
   [![Twitch Status](https://img.shields.io/twitch/status/viserion77_?color=purple)](https://www.twitch.tv/viserion77_)
 
 </div>
