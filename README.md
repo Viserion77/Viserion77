@@ -21,6 +21,6 @@
 
 <div align="center">
 
-  :fire::dragon::video_game:
-
+If you only do what you know, you will never be more than you are now!
+  <br> :fire::dragon::video_game:
 </div>
